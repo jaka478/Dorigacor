@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surgagacor.vercel.app/situs-slot-terpercaya/sitemap.xml
